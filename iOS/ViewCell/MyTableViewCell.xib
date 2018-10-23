@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina3_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="44" id="cxk-wN-pdQ" customClass="MyTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="cxk-wN-pdQ" id="YTl-1W-gDM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fIP-rb-Qna">
+                        <rect key="frame" x="22" y="11" width="42" height="21"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Ohf-Om-pnO">
+                        <rect key="frame" x="250" y="4" width="50" height="35"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="50" id="LAc-fm-3OX"/>
+                            <constraint firstAttribute="height" constant="35" id="sRb-qP-kcr"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="fIP-rb-Qna" firstAttribute="top" secondItem="YTl-1W-gDM" secondAttribute="topMargin" id="0D2-1c-5hg"/>
+                    <constraint firstItem="Ohf-Om-pnO" firstAttribute="leading" secondItem="fIP-rb-Qna" secondAttribute="trailing" constant="186" id="AOn-Iq-KrM"/>
+                    <constraint firstAttribute="trailing" secondItem="Ohf-Om-pnO" secondAttribute="trailing" constant="20" id="HRt-Nf-UE3"/>
+                    <constraint firstAttribute="bottom" secondItem="Ohf-Om-pnO" secondAttribute="bottom" constant="4" id="wYl-Uf-9a7"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="imgEmployee" destination="Ohf-Om-pnO" id="LqH-Pd-l3u"/>
+                <outlet property="txtEmployeeName" destination="fIP-rb-Qna" id="ueG-4N-Qls"/>
+            </connections>
+            <point key="canvasLocation" x="36" y="80"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,331 @@
+Function=xamarin_timezone_get_data
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyManager
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITAuthenticator
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashAttachment
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashDetails
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashManager
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITCrashMetaData
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackActivity
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackComposeViewController
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackListViewController
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITFeedbackManager
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyAttachment
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyBaseManager
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITHockeyBaseViewController
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITMetricsManager
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITStoreUpdateManager
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITUpdateManager
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+ObjectiveCClass=OBJC_CLASS_$_BITUpdateViewController
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITAuthenticatorErrorDomain
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITCrashErrorDomain
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITFeedbackErrorDomain
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITHockeyErrorDomain
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Field=kBITUpdateErrorDomain
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/HockeySDK.iOSBindings.dll
+Function=sqlite3_close
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_close_v2
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_enable_shared_cache
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_interrupt
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_finalize
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_reset
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_clear_bindings
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_stmt_status
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_parameter_name
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_database_name
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_database_name16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_decltype
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_decltype16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_name
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_name16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_origin_name
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_origin_name16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_table_name
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_table_name16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_text
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_text16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_errmsg
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_readonly
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_filename
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_prepare
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_prepare_v2
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_status
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_complete
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_compileoption_used
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_compileoption_get
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_table_column_metadata
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_text
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_text16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_enable_load_extension
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_load_extension
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_libversion
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_libversion_number
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_sourceid
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_malloc
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_realloc
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_free
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_open
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_open_v2
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_vfs_find
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_open16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_last_insert_rowid
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_changes
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_total_changes
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_memory_used
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_memory_highwater
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_status
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_shutdown
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_busy_timeout
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_blob
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_zeroblob
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_double
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_int
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_int64
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_null
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_text
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_parameter_count
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_parameter_index
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_count
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_data_count
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_step
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_sql
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_double
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_int
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_int64
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_blob
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_bytes
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_column_type
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_aggregate_count
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_blob
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_bytes
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_double
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_int
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_int64
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_value_type
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_user_data
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_blob
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_double
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_int
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_int64
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_null
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_text
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_zeroblob
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error_toobig
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error_nomem
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error_code
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_aggregate_context
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_bind_text16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_error16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_result_text16
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_config
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_create_function_v2
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_create_collation
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_update_hook
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_commit_hook
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_profile
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_progress_handler
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_trace
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_rollback_hook
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_db_handle
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_next_stmt
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_stmt_busy
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_stmt_readonly
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_exec
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_get_autocommit
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_extended_result_codes
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_errcode
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_extended_errcode
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_errstr
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_log
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_file_control
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_init
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_step
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_finish
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_remaining
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_backup_pagecount
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_open
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_write
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_read
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_bytes
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_blob_close
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_wal_autocheckpoint
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_wal_checkpoint
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_wal_checkpoint_v2
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=sqlite3_set_authorizer
+	/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/mtouch-cache/Link/SQLitePCLPlugin_internal.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

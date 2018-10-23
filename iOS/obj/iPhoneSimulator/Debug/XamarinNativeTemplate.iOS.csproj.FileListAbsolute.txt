@@ -1,0 +1,142 @@
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe.config
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Acr.Support.iOS.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.Interface.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.Storage.SQLCipher.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.Storage.SystemSQLite.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Splat.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/SQLitePCL.raw.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/SQLitePCL.ugly.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/SQLitePCLPlugin_internal.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Stateless.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/System.Net.Http.WebRequest.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/websocket-sharp.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.KeyChain.Abstractions.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.KeyChain.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/ModernHttpClient.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.dll.config
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.Interface.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.dll.mdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.Storage.SystemSQLite.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Stateless.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/websocket-sharp.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/bin/iPhoneSimulator/Debug/ModernHttpClient.dll.mdb
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.csprojResolveAssemblyReference.cache
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe.config
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe
+/Users/sjadhav/Downloads/XamarinNativeTemplate 4/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe.config
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Acr.Support.iOS.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.Interface.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.Storage.SQLCipher.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.Storage.SystemSQLite.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/HockeySDK.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/HockeySDK.iOSBindings.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Splat.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/SQLitePCL.raw.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/SQLitePCL.ugly.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/SQLitePCLPlugin_internal.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Stateless.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/System.Net.Http.WebRequest.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/websocket-sharp.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.KeyChain.Abstractions.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.KeyChain.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/ModernHttpClient.dll
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/XamarinNativeTemplate.dll.config
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.Interface.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.dll.mdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/ICSharpCode.SharpZipLib.Portable.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.Storage.SystemSQLite.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Stateless.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Couchbase.Lite.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/websocket-sharp.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.Abstractions.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/Plugin.Settings.xml
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/bin/iPhoneSimulator/Debug/ModernHttpClient.dll.mdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.csprojResolveAssemblyReference.cache
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe.config
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.csproj.CoreCompileInputs.cache
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.exe
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/XamarinNativeTemplate.iOS.pdb
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/sjadhav/Downloads/XamarinNativeTemplateCouchbase/iOS/obj/iPhoneSimulator/Debug/optimized/
